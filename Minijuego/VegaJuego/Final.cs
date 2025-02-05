@@ -1,8 +1,8 @@
 namespace VegaJuego
 {
-    public partial class Form1 : Form
+    public partial class Final : Form
     {
-        public Form1()
+        public Final()
         {
             InitializeComponent();
         }
